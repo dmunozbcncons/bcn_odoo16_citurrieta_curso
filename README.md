@@ -1,0 +1,1 @@
+# bcn_odoo16_citurrieta_curso
