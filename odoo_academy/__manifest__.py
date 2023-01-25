@@ -2,7 +2,7 @@
 {
     'name': 'Odoo Academy',
     'summary': """"Academy app to manage Trainig""",
-    'desciption':"""
+    'description':"""
             Modulo de academia
             -Cursos
             -Sesiones
